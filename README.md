@@ -1,4 +1,4 @@
-# Ente# 4-Building Campus Network Simulation with RIP Routing
+# 4-Building Campus Network Simulation with RIP Routing
 
 ![Topology](https://img.shields.io/badge/Architecture-4--Building--Campus-blueviolet?style=for-the-badge)
 ![Routing Protocol](https://img.shields.io/badge/Protocol-RIP--v2-success?style=for-the-badge)
